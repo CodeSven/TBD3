@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ModernEra-Medium';
+    src: url('ModernEra-Medium.woff') format('woff'),
+         url('ModernEra-Medium.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ModernEra-BoldItalic';
+    src: url('ModernEra-BoldItalic.woff') format('woff'),
+         url('ModernEra-BoldItalic.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
